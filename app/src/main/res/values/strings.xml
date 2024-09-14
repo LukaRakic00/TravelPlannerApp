@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Travel Planner</string>
+    <string name="todo">TODO</string>
+    <string name="travel_planner">Travel Planner</string>
+    <string name="textView01">Travel planner</string>
+
+    <string name="image_contentDescription">image</string>
+    <string name="let_s_get_started_text">Let\'s Get started</string>
+    <string name="intro_text_description">Organize Your Adventures with Ease on Travel Planner’s Intuitive and Minimalist Interface.</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+
+
+    <!-- ZA SIGN UP i SIGN IN-->
+    <string name="sign_up_description_text">Enter your name, email id and password, to register with us.</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_in_description_text">Enter your name, email id and password, to register with us.</string>
+
+    <!-- za Dialog progress bar-->
+    <string name="please_click_back_again_to_exit">Please click back again to exit.</string>
+    <string name="please_wait">Please Wait…</string>
+
+    <!-- za nav menu-->
+    <string name="nav_my_profile">My Profile</string>
+    <string name="nav_sign_out">Sign Out</string>
+
+    <!-- za activity_my_profile -->
+    <string name="mobile">Mobile</string>
+    <string name="update">UPDATE</string>
+    <string name="my_profile_title">My Profile</string>
+
+    <!-- START za putovanje-->
+    <string name="create_board_title">Create journey</string>
+    <string name="create">CREATE</string>
+    <string name="board_name">Journey Name</string>
+    <string name="no_boards_are_available">No journey available!!!</string>
+    <!-- END -->
+
+    <!-- START za item_task -->
+    <string name="action_add_list">Add List</string>
+    <string name="hint_list_name">List Name</string>
+    <string name="action_add_card">Add Card</string>
+    <string name="hint_card_name">Card Name</string>
+    <string name="add_list">Add List</string>
+    <!-- TODO: Promena placeholder teksta -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- END -->
+</resources>

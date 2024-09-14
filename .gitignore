@@ -1,0 +1,20 @@
+# Gradle files
+.gradle/
+**/build/
+!gradle-wrapper.jar
+
+# Android Studio files
+.idea/
+*.iml
+*.hprof
+
+# Local configuration file (SDK location, etc.)
+local.properties
+
+# Ignore Android generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Avoid tracking of misc files
+.DS_Store
