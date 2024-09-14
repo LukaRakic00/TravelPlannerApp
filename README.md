@@ -49,4 +49,4 @@ TravelPlanner je Android aplikacija osmišljena kako bi pomogla korisnicima da p
 
 ## Autor
 
-- **Ime i Prezime** - [GitHub](https://github.com/tvoje-korisnicko-ime)
+- **Ime i Prezime** - [GitHub](https://github.com/LukaRakic00)
