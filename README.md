@@ -13,7 +13,6 @@ TravelPlanner je Android aplikacija osmišljena kako bi pomogla korisnicima da p
 ## Tehnologije korišćene
 
 - **Programski jezik**: Kotlin
-- **Android SDK**: Android 5.0 (Lollipop) ili noviji
 - **Biblioteke**:
   - Firebase Firestore (za skladištenje podataka u oblaku)
   - Android Jetpack Components (LiveData, ViewModel, Room, itd.)
