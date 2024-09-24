@@ -1,51 +1,31 @@
-# TravelPlanner Android App
+# **Travel Planner App**
 
-TravelPlanner je Android aplikacija osmišljena kako bi pomogla korisnicima da planiraju svoja putovanja na jednostavan i organizovan način. Korisnici mogu kreirati spisak zadataka, destinacija i pratiti sve potrebne informacije o svom putovanju.
+Welcome to the **Travel Planner App** repository! This project is an Android application designed to help users plan and organize their trips efficiently.
 
-## Funkcionalnosti
+## **Table of Contents**
+- **[Overview](#overview)**
+- **[Features](#features)**
+- **[Technologies](#technologies)**
+- **[Setup and Installation](#setup-and-installation)**
+- **[Usage](#usage)**
+- **[Screenshots](#screenshots)**
+- **[Contributing](#contributing)**
+- **[License](#license)**
 
-- Kreiranje putovanja sa destinacijama.
-- Dodavanje zadataka vezanih za putovanje.
-- Sinhronizacija podataka sa Firebase Firestore.
-- Interfejs prilagođen mobilnim uređajima.
-- Upravljanje zadacima na jednostavan način.
+## **Overview**
+The **Travel Planner App** is an Android application that helps users organize their travel itineraries, track destinations, and manage important travel details. Users can create, edit, and view their travel plans with a user-friendly interface.
 
-## Tehnologije korišćene
+## **Features**
+- 🛫 **Trip Planning**: Add and manage multiple trips and destinations.
+- 📅 **Itinerary Management**: Create and edit daily itineraries for each trip.
+- 🌍 **Destination Tracking**: Track destinations with maps and save important places.
+- 📝 **Notes and Reminders**: Add notes and reminders for important travel details.
+- 📱 **Responsive UI**: A responsive design optimized for mobile devices.
 
-- **Programski jezik**: Kotlin
-- **Biblioteke**:
-  - Firebase Firestore (za skladištenje podataka u oblaku)
-  - Android Jetpack Components (LiveData, ViewModel, Room, itd.)
-  - Material Design Components
-
-## Instalacija
-
-1. **Preuzimanje projekta**:
-   - Kloniraj repozitorijum koristeći Git:
-     ```bash
-     git clone https://github.com/tvoje-korisnicko-ime/ime-repozitorijuma.git
-     ```
-
-2. **Postavljanje Firebase-a**:
-   - Otvori [Firebase Console](https://console.firebase.google.com/), kreiraj novi projekat i preuzmi `google-services.json` fajl.
-   - Stavi `google-services.json` fajl u direktorijum `app/` projekta.
-
-3. **Pokretanje projekta**:
-   - Otvori projekat u Android Studiju.
-   - Sinhronizuj Gradle fajlove.
-   - Pokreni aplikaciju na Android emulatoru ili fizičkom uređaju.
-
-## Korišćenje aplikacije
-
-1. Kada aplikacija bude pokrenuta, kreiraj nalog ili se prijavi koristeći postojeće podatke.
-2. Dodaj novo putovanje, definiši destinacije i zadatke vezane za putovanje.
-3. Prati zadatke i uživaj u dobro organizovanom putovanju!
-
-## Prilozi
-
-- [Dokumentacija Firebase-a](https://firebase.google.com/docs)
-- [Android Jetpack Components](https://developer.android.com/jetpack)
-
-## Autor
-
-- **Luka Rakic** - [GitHub](https://github.com/LukaRakic00)
+## **Technologies**
+- **Kotlin**: Used for building the Android app.
+- **Firebase**: Authentication, Firestore for database, and Firebase Storage for image management.
+- **Glide**: For image loading and caching.
+- **CircleImageView**: For displaying circular profile images.
+- **View Binding**: For efficient and safe UI interactions.
+- **MVP Architecture**: For clean separation between presentation and logic.
