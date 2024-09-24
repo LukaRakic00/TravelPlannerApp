@@ -6,11 +6,6 @@ Welcome to the **Travel Planner App** repository! This project is an Android app
 - **[Overview](#overview)**
 - **[Features](#features)**
 - **[Technologies](#technologies)**
-- **[Setup and Installation](#setup-and-installation)**
-- **[Usage](#usage)**
-- **[Screenshots](#screenshots)**
-- **[Contributing](#contributing)**
-- **[License](#license)**
 
 ## **Overview**
 The **Travel Planner App** is an Android application that helps users organize their travel itineraries, track destinations, and manage important travel details. Users can create, edit, and view their travel plans with a user-friendly interface.
