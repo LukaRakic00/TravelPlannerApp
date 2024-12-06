@@ -26,4 +26,4 @@ The **Travel Planner App** is an Android application that helps users organize t
 - **MVP Architecture**: For clean separation between presentation and logic.
 
 ## **App Screenshot**
-![Travel Planner App Screenshot](C:\Users\Windows User\Pictures\diplomski\TravelPlanner)
+![Travel Planner App Screenshot]([C:\Users\Windows User\Pictures\diplomski\TravelPlanner](https://github.com/LukaRakic00/TravelPlannerApp/blob/master/TravelPlanner.webp))
